@@ -22,8 +22,7 @@ To transform this script from a cleaning tool into an insight generator, I imple
 ## Visual Proof
 Below is a "zoom-in" on a sensor failure event (Index 11898). The red dashed line shows the raw sensor dropping to an impossible 0 Kelvin, while the green line shows the reconstructed "Sensor Truth" successfully bridging the gap.
 
-output.png
-
+[output.png](https://github.com/spellmunky/temp_sensor_errors/blob/07564f2cd473301cf2503eb8dd09010e486014e2/output.png)
 ## Tools Used
 * **Python**: Core logic and data manipulation.
 * **Pandas**: Dataframe management and time-series rolling calculations.
