@@ -1,0 +1,9 @@
+requirements:
+
+dataset: https://www.kaggle.com/datasets/rgupta12/metro-interstate-traffic-volume
+
+python packages:
+numpy
+pandas
+matplotlib.pyplot
+seaborn
